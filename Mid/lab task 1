@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html> 
+<body>
+<title> Hasibul Hasan </title>
+
+    <h1> my name is hasib <br> i am a student of Aiub </h1>
+    <h1> this is my 9th semister</h1>
+    <h1></h1>
+    <h3> my hobby is reading book </h3> 
+    <p style = "color: red">this is red colour</p>
+    <p style = "color : blue">this is  blue colour</p>
+    <p style = "color : rgb(38, 85, 39)">this is  rgb colour</p>
+    <a href="https://www.aiub.edu/" this is my university webside></a>
+     <img src="images.png">
+
+<body>
+
+
+</html>
